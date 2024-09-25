@@ -1,0 +1,119 @@
+type: edu
+custom_name: It's Scoring Time!
+files:
+  - name: convoy/convoy.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: "test/data_big_chk[CHECKED].csv"
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_big_csv.csv
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_big_xlsx.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_final_xlsx.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: "test/data_one_chk[CHECKED].csv"
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_one_csv.csv
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_one_xlsx.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: convoy/data_one_xlsx.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/data_one_xlsx.csv
+    visible: true
+    learner_created: true
+  - name: convoy/table.xml
+    visible: true
+    learner_created: true
+  - name: "convoy/data_big_chk[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: "convoy/table[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: "convoy/data_one_chk[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: convoy/table.json
+    visible: true
+    learner_created: true
+  - name: convoy/data_one_xlsx.json
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_xlsx.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/table.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/data_one_csv.csv
+    visible: true
+    learner_created: true
+  - name: "convoy/data_one_xlsx[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_csv.csv
+    visible: true
+    learner_created: true
+  - name: convoy/data_one_xlsx.xml
+    visible: true
+    learner_created: true
+  - name: convoy/table.csv
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_sql.s3db
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_xlsx.xml
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_xlsx.s3db
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_xlsx.csv
+    visible: true
+    learner_created: true
+  - name: "convoy/data_big_xlsx[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_xlsx.json
+    visible: true
+    learner_created: true
+  - name: convoy/data_final_xlsx.xlsx
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/12013#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 25 Sep 2024 15:57:07 UTC"
+record: -1

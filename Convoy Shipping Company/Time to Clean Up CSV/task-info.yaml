@@ -1,0 +1,60 @@
+type: edu
+files:
+  - name: convoy/convoy.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/data_big_csv.csv
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_big_xlsx.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_one_csv.csv
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_one_xlsx.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: convoy/table.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/table.csv
+    visible: true
+    learner_created: true
+  - name: "convoy/table[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: convoy/data_one_csv.csv
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_csv.csv
+    visible: true
+    learner_created: true
+  - name: convoy/data_one_xlsx.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/data_big_xlsx.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/12009#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 23 Sep 2024 23:16:19 UTC"
+record: 2

@@ -1,0 +1,217 @@
+hyperskill_project:
+  id: 151
+  ide_files: https://cogniterra.org/media/attachments/lesson/25332/additional_files.json
+  is_template_based: false
+  use_ide: true
+  environment: unittest
+update_date: "Wed, 25 Sep 2024 10:58:54 UTC"
+stages:
+  - id: 795
+    step: 12008
+    is_completed: true
+  - id: 796
+    step: 12009
+    is_completed: true
+  - id: 797
+    step: 12010
+    is_completed: true
+  - id: 798
+    step: 12011
+    is_completed: true
+  - id: 799
+    step: 12012
+    is_completed: true
+  - id: 800
+    step: 12013
+    is_completed: true
+topics:
+  0:
+    - title: Numerical and categorical data
+      theory_id: 24686
+    - title: Operating systems
+      theory_id: 9704
+    - title: Command line overview
+      theory_id: 8977
+    - title: Working with file modes and permissions
+      theory_id: 13961
+    - title: Introduction to Python
+      theory_id: 47352
+    - title: Multi-line programs
+      theory_id: 47555
+    - title: "PEP 8: Coding style guide"
+      theory_id: 47499
+    - title: Taking user's input
+      theory_id: 47680
+    - title: Program with numbers
+      theory_id: 47734
+    - title: If statement
+      theory_id: 5953
+    - title: Else statement
+      theory_id: 5932
+    - title: For loop
+      theory_id: 6065
+    - title: Importing modules
+      theory_id: 6019
+    - title: The Jupyter Notebook
+      theory_id: 12623
+    - title: Google Colab
+      theory_id: 12631
+    - title: Elif statement
+      theory_id: 5926
+    - title: While loop
+      theory_id: 5940
+    - title: "Loop control: break, continue, pass"
+      theory_id: 6302
+    - title: Class
+      theory_id: 6661
+    - title: Class instances
+      theory_id: 6669
+    - title: Methods
+      theory_id: 6931
+    - title: Methods and attributes
+      theory_id: 6981
+    - title: Files
+      theory_id: 13025
+    - title: File types
+      theory_id: 13017
+    - title: Introduction to pandas
+      theory_id: 10416
+    - title: Program execution
+      theory_id: 6047
+    - title: Errors
+      theory_id: 6052
+    - title: Exceptions
+      theory_id: 6042
+    - title: Built-in exceptions
+      theory_id: 11680
+    - title: Exception handling
+      theory_id: 6270
+    - title: File modes and permissions
+      theory_id: 13953
+    - title: Files in Python
+      theory_id: 8691
+    - title: Reading files
+      theory_id: 8139
+    - title: Writing files
+      theory_id: 8334
+    - title: Context manager
+      theory_id: 8702
+    - title: Series
+      theory_id: 10421
+    - title: DataFrame
+      theory_id: 10933
+    - title: Basic data types
+      theory_id: 47516
+    - title: Variables
+      theory_id: 47536
+    - title: "Integer arithmetic: basic operations"
+      theory_id: 47564
+    - title: "Integer arithmetic: special operations"
+      theory_id: 47917
+    - title: Invoking functions
+      theory_id: 5891
+    - title: Boolean type and operations. True and false
+      theory_id: 6025
+    - title: Comparisons
+      theory_id: 5920
+    - title: List
+      theory_id: 5979
+    - title: Declaring functions
+      theory_id: 5900
+    - title: Global vs local. Scopes
+      theory_id: 6322
+    - title: "Function, arguments and parameters"
+      theory_id: 7248
+    - title: "Working with strings: basic methods"
+      theory_id: 6842
+    - title: Quotes and multi-line strings
+      theory_id: 5814
+    - title: String formatting
+      theory_id: 6037
+    - title: Escape sequences
+      theory_id: 7130
+    - title: Splitting strings and joining lists
+      theory_id: 6972
+    - title: Dictionary
+      theory_id: 6481
+    - title: Type casting
+      theory_id: 6224
+    - title: Sep and end arguments of print
+      theory_id: 7452
+  1:
+    - title: Regexps in Python
+      theory_id: 9468
+    - title: CSV
+      theory_id: 13164
+    - title: Working with CSV
+      theory_id: 11724
+    - title: Indexes
+      theory_id: 6189
+    - title: Identity testing
+      theory_id: 8077
+    - title: Operations with list
+      theory_id: 6031
+    - title: Regular expression
+      theory_id: 7580
+  2:
+    - title: Working with SQLite
+      theory_id: 17163
+    - title: Delete data with SQLite
+      theory_id: 17982
+    - title: "SQL: structured query language"
+      theory_id: 7054
+    - title: Basic data types
+      theory_id: 7123
+    - title: Literals
+      theory_id: 7400
+    - title: Arithmetic expressions
+      theory_id: 7409
+    - title: Basic CREATE statement
+      theory_id: 9084
+    - title: Basic SELECT statement
+      theory_id: 7392
+    - title: SELECT FROM statement
+      theory_id: 8611
+    - title: Logic and comparison expressions
+      theory_id: 8619
+    - title: The NULL value
+      theory_id: 7907
+    - title: Basic INSERT statement
+      theory_id: 9059
+    - title: Introduction to SQLite
+      theory_id: 12165
+    - title: Intro to MySQL
+      theory_id: 16662
+    - title: Alter table
+      theory_id: 9579
+    - title: PRIMARY KEY constraint
+      theory_id: 9781
+  3:
+    - title: JSON
+      theory_id: 6854
+    - title: Json module
+      theory_id: 8999
+    - title: Functional decomposition
+      theory_id: 9571
+  4:
+    - title: Parameters and options
+      theory_id: 9746
+    - title: Creating modules
+      theory_id: 6057
+    - title: Multiple modules. Package
+      theory_id: 6384
+    - title: Installing packages with pip
+      theory_id: 6230
+    - title: XML
+      theory_id: 6901
+    - title: XML in Python
+      theory_id: 9481
+    - title: List comprehension
+      theory_id: 6315
+    - title: Nested lists
+      theory_id: 6938
+  5:
+    - title: Computer algorithms
+      theory_id: 16547
+    - title: Algorithms in Python
+      theory_id: 7316

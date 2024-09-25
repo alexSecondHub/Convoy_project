@@ -1,0 +1,84 @@
+type: edu
+custom_name: One Part to JSON...
+files:
+  - name: convoy/convoy.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: "test/data_big_chk[CHECKED].csv"
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_big_csv.csv
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_big_xlsx.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: "test/data_one_chk[CHECKED].csv"
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_one_csv.csv
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_one_xlsx.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: convoy/data_one_xlsx.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/data_big_xlsx.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/table.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/data_one_csv.csv
+    visible: true
+    learner_created: true
+  - name: "convoy/data_one_xlsx[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: convoy/data_big_csv.csv
+    visible: true
+    learner_created: true
+  - name: convoy/data_one_xlsx.csv
+    visible: true
+    learner_created: true
+  - name: convoy/table.csv
+    visible: true
+    learner_created: true
+  - name: "convoy/data_big_chk[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: "convoy/table[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: "convoy/data_one_chk[CHECKED].csv"
+    visible: true
+    learner_created: true
+  - name: convoy/table.json
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/12011#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 24 Sep 2024 22:39:23 UTC"
+record: 4

@@ -1,0 +1,40 @@
+type: edu
+custom_name: Give Me an XLSX!
+files:
+  - name: convoy/convoy.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/data.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_big.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/data_one.xlsx
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: convoy/table.xlsx
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: convoy/table.csv
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/12008#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 23 Sep 2024 22:33:59 UTC"
+record: 1
